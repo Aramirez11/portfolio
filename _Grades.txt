@@ -1,0 +1,25 @@
+Assignment: Use CSS ID selectors to style two paragraphs on your About Me page differently.
+
+Grade:  0
+
+Comment:  Incomplete
+
+I had to grade this as incomplete because you didn't have your code on github until today.
+
+I see you did add the CSS IDs on two paragraphs, but you never added anything to style them.  Try to use the material from today to start adding some styles.
+
+########
+
+Assignment: Add an image to your About Me page and edit the CSS so the image and paragraphs are side-by-side.
+
+Grade: 0
+
+Comment: Incomplete
+
+########
+
+Overall Portfolio:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 0
+
+Comment: Incomplete
