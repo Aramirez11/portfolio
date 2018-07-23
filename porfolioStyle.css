@@ -1,5 +1,18 @@
 body{
-    font-size: 6.0rem;
-    background:crimson;    
+    font-size: 5.0rem;
+    background:white;    
 background-attachment: fixed;
+font-family: 'Merienda', cursive;
+border: 2px solid blue;
+}
+nav{
+    font-fmaily:'Slabo 27px', serif;
+}
+
+a{
+    color: black;
+
+}
+a:hover{
+    color: blue
 }
