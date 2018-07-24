@@ -1,18 +1,20 @@
-body{
+body {
     font-size: 5.0rem;
-    background:white;    
-background-attachment: fixed;
-font-family: 'Merienda', cursive;
-border: 2px solid blue;
-}
-nav{
-    font-fmaily:'Slabo 27px', serif;
+    background: white;
+    background-attachment: fixed;
+    font-family: 'Merienda', cursive;
+    border: 2px solid blue;
 }
 
-a{
+nav {
+    /* TODO: Fix the typos */
+    font-fmaily: 'Slabo 27px', serif;
+}
+
+a {
     color: black;
-
 }
-a:hover{
+
+a:hover {
     color: blue
 }
