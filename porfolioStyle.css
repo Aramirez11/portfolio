@@ -1,12 +1,12 @@
 body{
-    font-size: 5.0rem;
-    background:white;    
+    font-size: 2rem;
+    background:lightslategray;    
 background-attachment: fixed;
 font-family: 'Merienda', cursive;
-border: 2px solid blue;
+border: 1px solid black;
 }
 nav{
-    font-fmaily:'Slabo 27px', serif;
+    font-family:'Slabo 27px', serif;
 }
 
 a{
@@ -14,5 +14,10 @@ a{
 
 }
 a:hover{
-    color: blue
+    color: white;
+}
+
+.framesize{
+    width:800px;
+    height:900px;
 }
