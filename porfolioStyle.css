@@ -1,5 +1,5 @@
 body{
-    font-size: 2rem;
+    font-size: 27px;
     background:lightslategray;    
 background-attachment: fixed;
 font-family: 'Merienda', cursive;
@@ -17,6 +17,7 @@ a:hover{
 }
 
 .framesize{
-    width:800px;
-    height:900px;
+    width:500px;
+    height:700px;
 }
+ 
