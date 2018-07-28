@@ -1,0 +1,41 @@
+Portfolio final grade: 79
+
+Comments:  Good effort, there were a few broken/misplaced things that tripped you up.
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 84
+(50% of overall grade)
+
+Points deducted for these items:
+    -1 Unused resume rtf file left in project.
+    -2 Default document title not changed on 2 pages.
+    -3 Project link broken on 3 pages.
+    -1 Index/About link is redundant 
+    -2 CSS stylesheet link in <body> on 2 pages.
+    -2 Navigation inside the <head> on the about page.
+    -3 Google fonts link not used on 3 pages
+    -1 img width property value is broken.
+    -1 Duplicate/broken iframe tag on contact page.
+
+########
+
+Design and Accessibility:  Does it incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 99
+(25% of overall grade)
+
+Points deducted for these items:
+    -1 Extraneous background-attachment property in css.
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 50
+(25% of overall grade)
+
+Points deducted for these items:
+    -50 Media queries / mobile responsive design not included.
